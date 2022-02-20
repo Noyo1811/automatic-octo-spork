@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+.note{
+    font-size: 15px;
+    font-family: fantasy;
+    color:black;
+}
+.heading{
+    font-size: 23px;
+    font-family: fantasy;
+    width:100%;
+    margin:0px;
+
+}
+.img{
+    width:200px;
+    border-radius: 100px;
+}
+#speed_div{
+    float:left;
+    
+}
+#vol_div{
+    float:right;
+}
+#ctrlVol{
+    font-size: 23px;
+  margin:15px;
+}
+#ctrlSpeed{
+    font-size: 23px;
+  margin:15px;
+}
+.playbutton{
+    width:130px;
+    font-size: 30px;
+    font-family: Verdana;
+}
+canvas{
+    border:5px solid rgb(79, 255, 10);
+    border-radius: 20px;
+}
